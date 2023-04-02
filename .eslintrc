@@ -1,3 +1,9 @@
 {
-  "parser": "babel-eslint"
+  "parser": "babel-eslint",
+   "rules": {
+    "eqeqeq": "off",
+    "no-console": "off"
+  }
  }
+  
+  
